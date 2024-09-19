@@ -16,9 +16,7 @@ function add(a, b) {
 }
 
 function decline(a, b) {
-  if (a < b) {
-    alert("invalid number");
-  }
+ 
   return a - b;
 }
 
